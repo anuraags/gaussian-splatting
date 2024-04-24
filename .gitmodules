@@ -1,0 +1,3 @@
+[submodule "ext/colmap"]
+	path = ext/colmap
+	url = https://github.com/colmap/colmap.git
